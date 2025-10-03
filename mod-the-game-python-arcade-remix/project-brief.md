@@ -87,3 +87,6 @@ Each team will give a brief in-class presentation (maximum 5 minutes) to demonst
     - Show before-and-after effects if possible 
 
     - Be ready to answer questions from the class or instructor 
+
+### Acknowledgments
+*This curriculum project was assisted by Copilot for generating initial ideas and refining the project's learning objectives.*
