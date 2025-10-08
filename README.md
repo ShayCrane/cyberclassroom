@@ -18,31 +18,30 @@ Each project is built to reinforce core concepts such as agile workflow, scripti
 ## Goals
 
 - Teach foundational coding skills relevant to cybersecurity
-- Bridge the gap between programming and security operations
 - Provide hands-on, real-world inspired exercises
+- Bridge the gap between programming and security operations
 - Encourage problem-solving and critical thinking through code
 
 ## Topics Covered
 
 - Python scripting basics
--
-- 
+- Python-assisted workflows
+- Log analysis and automation
+- Secure coding practices
+- Open-source game modding
 <!--- File I/O and data parsing
 - Network programming fundamentals
-- Log analysis and automation
 - Simple encryption/decryption exercises
 - Regex and pattern matching
-- Working with APIs and JSON
-- Intro to secure coding practices-->
-- (More original projects to be added as time allows)
+- Working with APIs and JSONs-->
 
 ## Structure
 
 Each project folder includes:
 - A brief **project description**
-- **Learning objectives**
-- Starter code (if applicable)
-- Instructions and challenges
+- Starter code *when applicable*
+- Instructions and stretch goals for deliverables
+- Grading rubric *(when applicable*
 
 ## How to Use
 
