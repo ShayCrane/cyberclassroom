@@ -41,7 +41,7 @@ Each project folder includes:
 - A brief **project description**
 - Starter code *when applicable*
 - Instructions and stretch goals for deliverables
-- Grading rubric *(when applicable*
+- Grading rubric *when applicable*
 
 ## How to Use
 
