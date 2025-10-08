@@ -1,19 +1,16 @@
 # original-cyber-coding-projects
-*Projects and curriculum I've created for my Cybersecurity and Software Development students*
+*Custom projects and curriculum for Cybersecurity and Software Development students*
 
 # Original Cyber Coding Projects
 
 ## Overview
 
-This repository contains a curated collection of original coding projects designed specifically for cybersecurity students at the technical college level. These projects emphasize foundational programming skills that are essential for success in cybersecurity roles.
-
-Each project is built to reinforce core concepts such as agile workflow, scripting, automation, data handling, and basic security operations through hands-on coding exercises.
+This repository contains a curated collection of original coding projects designed for students of advanced technology programs. Each project is built to reinforce core concepts such as agile workflow, scripting, automation, data handling, and basic security operations through hands-on coding exercises.
 
 ## Audience
 
-- Cybersecurity or students (beginner to intermediate)
+- Cybersecurity or Software Development students (beginner to intermediate)
 - Educators seeking structured coding labs for cyber programs
-- Learners transitioning into cybersecurity from other technical fields
 
 ## Goals
 
