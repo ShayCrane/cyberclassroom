@@ -1,3 +1,19 @@
+
+```
+Adapted from: Python project: "Mod the Game"
+Original Creator: Joseph Kauer, Cybersecurity Faculty and Program Director
+Date of Original Assignment: [Not yet available]
+
+Adaptation Details:
+* changed mode from individual to team project based on Agile
+* additional requirements for deliverables
+* added stretch goals, project timeline, and custom rubric
+* created a bespoke Python script that randomly assigns students to their teams and saves the output to a .txt file.
+
+Permission for adaptation was granted by the original creator.
+```
+---------------------
+<!--[Approximate Date or Semester/Year, e.g., "Fall 2024"] -->
 # Mod the Game: Python Arcade Remix (Team Project) 
 
 In this project, your team will choose any open-source Python game and make small, observable changes to it. These changes can affect visuals, gameplay, or structure. You’ll work together to decide what to change, who will do what, and how to document your work just like a software development team in the field. 
@@ -89,4 +105,4 @@ Each team will give a brief in-class presentation (maximum 5 minutes) to demonst
     - Be ready to answer questions from the class or instructor 
 
 ### Acknowledgments
-*This curriculum project was assisted by Copilot for generating initial ideas and refining the project's learning objectives.*
+*This curriculum project is an adaptation of  assisted by Copilot for refining the project's structure.*
