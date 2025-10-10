@@ -1,27 +1,28 @@
-# original-cyber-coding-projects
-*Custom projects and curriculum for Cybersecurity and Software Development students*
+# cyberclassroom
+*Custom projects and curriculum for beginner-to-intermediate Cybersecurity students*
 
 # Original Cyber Coding Projects
 
 ## Overview
 
-This repository contains a curated collection of original coding projects designed for students of advanced technology programs. Each project is built to reinforce core concepts such as agile workflow, scripting, automation, data handling, and basic security operations through hands-on coding exercises.
+This repository contains a curated collection of original projects designed for students of cybersecurity. Each project is built to teach core concepts such as agile workflow, scripting in various languages commonly used in the cybersecurity field, automation, data handling, and basic security operations through hands-on exercises.
 
 ## Audience
 
-- Cybersecurity or Software Development students (beginner to intermediate)
-- Educators seeking structured coding labs for cyber programs
+- Cybersecurity students (beginner to intermediate)
+- Educators seeking structured hands-on labs for cyber programs
 
 ## Goals
 
-- Teach foundational coding skills relevant to cybersecurity
+- Teach foundational skills relevant to cybersecurity
 - Provide hands-on, real-world inspired exercises
 - Bridge the gap between programming and security operations
-- Encourage problem-solving and critical thinking through code
+- Encourage problem-solving and critical thinking
 
 ## Topics Covered
 
 - Python scripting basics
+- Virtualization
 - Python-assisted workflows
 - Log analysis and automation
 - Secure coding practices
@@ -32,10 +33,13 @@ This repository contains a curated collection of original coding projects design
 - Regex and pattern matching
 - Working with APIs and JSONs-->
 
-## Structure
+<!--## Structure
 
 Each project folder includes:
-- A brief **project description**
+- Description of project with outline of requirements
+- Description of minimum viable project
+
+Where applicable
 - Starter code *when applicable*
 - Instructions and stretch goals for deliverables
 - Grading rubric *when applicable*
@@ -46,6 +50,6 @@ Each project folder includes:
    ```bash
    git clone https://github.com/yourusername/original-cyber-coding-projects.git
 
-<!--## Acknowledgments
+## Acknowledgments
 
 This project was co-created with the assistance of GitHub Copilot to support cybersecurity education through hands-on coding.-->
