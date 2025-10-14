@@ -105,4 +105,4 @@ Each team will give a brief in-class presentation (maximum 5 minutes) to demonst
     - Be ready to answer questions from the class or instructor 
 
 ### Acknowledgments
-*This curriculum project is an adaptation of  assisted by Copilot for refining the project's structure.*
+*This curriculum project was assisted by Copilot for refining team workflow, perfecting code, and the project's structure.*
