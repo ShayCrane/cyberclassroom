@@ -1,12 +1,7 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
-## How to Attribute
-*If you use or adapt this content, please include the following attribution*:
-> *Content adapted from [CyberClassroom](https://github.com/your-username/cyberclassroom) by Shay, licensed under CC BY 4.0.*
 
 # cyberclassroom
 *Custom projects and curriculum for beginner-to-intermediate Cybersecurity students*
-
-# Original Cyber Coding Projects
 
 ## Overview
 
@@ -58,3 +53,5 @@ Where applicable
 ## Acknowledgments
 
 This project was co-created with the assistance of GitHub Copilot to support cybersecurity education through hands-on coding.-->
+
+
