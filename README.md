@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains a curated collection of original projects designed for students of cybersecurity. Each project is built to teach core concepts such as agile workflow, scripting in various languages commonly used in the cybersecurity field, automation, data handling, and basic security operations through hands-on exercises.
+This repository contains a curated collection of original projects designed for beginning to intermediate cybersecurity professionals and students of cybersecurity. Each project is built to teach core concepts such as threat simulation, agile workflow, scripting in various languages commonly used in the cybersecurity field, automation, data handling, and basic security operations through hands-on exercises.
 
 ## Audience
 
@@ -15,7 +15,7 @@ This repository contains a curated collection of original projects designed for 
 ## Goals
 
 - Teach foundational skills relevant to cybersecurity
-- Provide hands-on, real-world inspired exercises
+- Provide hands-on, real-world inspired exercises and simulations
 - Bridge the gap between programming and security operations
 - Encourage problem-solving and critical thinking
 
@@ -27,6 +27,7 @@ This repository contains a curated collection of original projects designed for 
 - Log analysis and automation
 - Secure coding practices
 - Open-source game modding
+- Threat simulation
 <!--- File I/O and data parsing
 - Network programming fundamentals
 - Simple encryption/decryption exercises
